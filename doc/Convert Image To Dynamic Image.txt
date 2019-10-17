@@ -30,3 +30,5 @@ https://www.zhangxinxu.com/wordpress/2015/12/css3-animation-js-canvas-gif-pause-
 
 最终决定选用：
 https://github.com/fluent-ffmpeg/node-fluent-ffmpeg
+
+详情见 ：https://gitee.com/rgbgss/convertImageToVideo 的dev分支或forAPE分支
