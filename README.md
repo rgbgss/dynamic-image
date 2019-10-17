@@ -1,7 +1,4 @@
 # dynamic-image
-基于node.js express 服务，实现图片转换为gif demo; 实现图片转video demo;实现json转canvas动画，另外,doc文件中整理了更多图片转动画效果的相关链接供参考
-
-express 服务
 
 #### 介绍
 demo A：实现图片转换为gif 
@@ -13,7 +10,7 @@ demo C:实现图片转video 代码见：https://gitee.com/rgbgss/convertImageToV
 服务器当前调试相关配置：
 热刷新/vscode断点调试
 
-ps 更多详细情况，参见文档
+ps 另外,doc文件中整理了更多图片转动画效果的相关链接供参考
 
 
 #### 安装教程
