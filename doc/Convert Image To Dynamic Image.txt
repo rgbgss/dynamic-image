@@ -1,0 +1,32 @@
+
+【需求】前端生成mp4，动态展现影像变化
+
+image to gif/Convert images to gif
+1）https://github.com/yahoo/gifshot  【内含demo】
+2）https://github.com/jnordberg/gif.js
+【demo】https://jnordberg.github.io/gif.js/
+
+image to video/audio  convert image to video/audio
+1）https://github.com/h2non/videoshow   【内含demo】
+[Simple node.js utility to create video slideshows from images with optional audio and visual effects using ffmpeg]
+
+2）whammy.jsWhammy.js 是一个实时的 Javascript WebM 编码器(体积13k)
+[WebM由Google提出，是一个开放、免费的媒体文件格式]
+【demo】http://antimatter15.com/whammy/clock.html  --所有图像都必须是webp编码
+
+3）https://github.com/vagnervjs/frame-player
+[A video player without video files, just JSON. Based on "images frames" thought to mobile devices!##Generating the JSON Video File (ffmpeg lib must be installed)]
+【demo】https://vagnervjs.github.io/frame-player/
+
+ffmpeg,一个完整的跨平台音频和视频录制、转换和流媒体解决方案
+其它
+1）https://github.com/cjboco/cj-image-video-previewer
+[A jQuery plug-in to display a series of image frames, like a video previewer]
+
+2）CSS或JS实现gif动态图片的停止与播放
+https://www.zhangxinxu.com/wordpress/2015/12/css3-animation-js-canvas-gif-pause-stop-play/
+
+3）前端自己实现生成gif图片，参考 https://blog.csdn.net/xw505501936/article/details/80017776
+
+最终决定选用：
+https://github.com/fluent-ffmpeg/node-fluent-ffmpeg
