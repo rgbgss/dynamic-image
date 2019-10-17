@@ -1,34 +1,34 @@
 
-¡¾ĞèÇó¡¿Ç°¶ËÉú³Émp4£¬¶¯Ì¬Õ¹ÏÖÓ°Ïñ±ä»¯
+ã€éœ€æ±‚ã€‘å‰ç«¯ç”Ÿæˆmp4ï¼ŒåŠ¨æ€å±•ç°å½±åƒå˜åŒ–
 
 image to gif/Convert images to gif
-1£©https://github.com/yahoo/gifshot  ¡¾ÄÚº¬demo¡¿
-2£©https://github.com/jnordberg/gif.js
-¡¾demo¡¿https://jnordberg.github.io/gif.js/
+1ï¼‰https://github.com/yahoo/gifshot  ã€å†…å«demoã€‘
+2ï¼‰https://github.com/jnordberg/gif.js
+ã€demoã€‘https://jnordberg.github.io/gif.js/
 
 image to video/audio  convert image to video/audio
-1£©https://github.com/h2non/videoshow   ¡¾ÄÚº¬demo¡¿
+1ï¼‰https://github.com/h2non/videoshow   ã€å†…å«demoã€‘
 [Simple node.js utility to create video slideshows from images with optional audio and visual effects using ffmpeg]
 
-2£©whammy.jsWhammy.js ÊÇÒ»¸öÊµÊ±µÄ Javascript WebM ±àÂëÆ÷(Ìå»ı13k)
-[WebMÓÉGoogleÌá³ö£¬ÊÇÒ»¸ö¿ª·Å¡¢Ãâ·ÑµÄÃ½ÌåÎÄ¼ş¸ñÊ½]
-¡¾demo¡¿http://antimatter15.com/whammy/clock.html  --ËùÓĞÍ¼Ïñ¶¼±ØĞëÊÇwebp±àÂë
+2ï¼‰whammy.jsWhammy.js æ˜¯ä¸€ä¸ªå®æ—¶çš„ Javascript WebM ç¼–ç å™¨(ä½“ç§¯13k)
+[WebMç”±Googleæå‡ºï¼Œæ˜¯ä¸€ä¸ªå¼€æ”¾ã€å…è´¹çš„åª’ä½“æ–‡ä»¶æ ¼å¼]
+ã€demoã€‘http://antimatter15.com/whammy/clock.html  --æ‰€æœ‰å›¾åƒéƒ½å¿…é¡»æ˜¯webpç¼–ç 
 
-3£©https://github.com/vagnervjs/frame-player
+3ï¼‰https://github.com/vagnervjs/frame-player
 [A video player without video files, just JSON. Based on "images frames" thought to mobile devices!##Generating the JSON Video File (ffmpeg lib must be installed)]
-¡¾demo¡¿https://vagnervjs.github.io/frame-player/
+ã€demoã€‘https://vagnervjs.github.io/frame-player/
 
-ffmpeg,Ò»¸öÍêÕûµÄ¿çÆ½Ì¨ÒôÆµºÍÊÓÆµÂ¼ÖÆ¡¢×ª»»ºÍÁ÷Ã½Ìå½â¾ö·½°¸
-ÆäËü
-1£©https://github.com/cjboco/cj-image-video-previewer
+ffmpeg,ä¸€ä¸ªå®Œæ•´çš„è·¨å¹³å°éŸ³é¢‘å’Œè§†é¢‘å½•åˆ¶ã€è½¬æ¢å’Œæµåª’ä½“è§£å†³æ–¹æ¡ˆ
+å…¶å®ƒ
+1ï¼‰https://github.com/cjboco/cj-image-video-previewer
 [A jQuery plug-in to display a series of image frames, like a video previewer]
 
-2£©CSS»òJSÊµÏÖgif¶¯Ì¬Í¼Æ¬µÄÍ£Ö¹Óë²¥·Å
+2ï¼‰CSSæˆ–JSå®ç°gifåŠ¨æ€å›¾ç‰‡çš„åœæ­¢ä¸æ’­æ”¾
 https://www.zhangxinxu.com/wordpress/2015/12/css3-animation-js-canvas-gif-pause-stop-play/
 
-3£©Ç°¶Ë×Ô¼ºÊµÏÖÉú³ÉgifÍ¼Æ¬£¬²Î¿¼ https://blog.csdn.net/xw505501936/article/details/80017776
+3ï¼‰å‰ç«¯è‡ªå·±å®ç°ç”Ÿæˆgifå›¾ç‰‡ï¼Œå‚è€ƒ https://blog.csdn.net/xw505501936/article/details/80017776
 
-×îÖÕ¾ö¶¨Ñ¡ÓÃ£º
+æœ€ç»ˆå†³å®šé€‰ç”¨ï¼š
 https://github.com/fluent-ffmpeg/node-fluent-ffmpeg
 
-ÏêÇé¼û £ºhttps://gitee.com/rgbgss/convertImageToVideo µÄdev·ÖÖ§»òforAPE·ÖÖ§
+è¯¦æƒ…è§ ï¼šhttps://gitee.com/rgbgss/convertImageToVideo
