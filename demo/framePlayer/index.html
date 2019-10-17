@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<!-- saved from url=(0035)https://jnordberg.github.io/gif.js/ -->
+<html class="js rgba csstransforms3d" style="" slick-uniqueid="3">
+
+<head>
+  <link rel="stylesheet" href="dist/frameplayer.min.css">
+  <script src="dist/frameplayer.min.js"></script>
+</head>
+
+<body>
+  <div id="player2" class="frameplayer" data-vidsrc="./videos/dragons.json"></div>
+  <div class="fp-ctrl" style="width: 100%;">
+    <button id="pause-player2" class="fp-btn" style="display: block;" onclick="pauseFn();">Pause</button>
+    <button id="play-player2" class="fp-btn" style="display: none;" onclick="playFn();">Resume</button>
+    <select id="filter-player2" class="fp-select">
+      <option value="normal">normal</option>
+      <option value="grayscale">grayscale</option>
+      <option value="sepia">sepia</option>
+      <option value="invert">invert</option>
+    </select></div>
+</body>
+<script>
+  var options = ({
+    'rate': 30,
+    'controls': false,
+    'autoplay': true,
+    'backwards': false,
+    'startFrame': 10,
+    'width': '640px',
+    'height': '390px',
+    // 'radius': '50%'
+  });
+  var playdom = document.getElementById("player2")
+  var playBtndom = document.getElementById("play-" + "player2")
+  var PauseBtndom = document.getElementById("pause-" + "player2")
+  var player = new FramePlayer('player2', options);
+  player.play();
+
+  function pauseFn() {
+    player.pause();
+  }
+
+  function playFn() {
+    player.resume();
+  }
+</script>
+
+</html>
