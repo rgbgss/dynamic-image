@@ -32,4 +32,4 @@ https://www.zhangxinxu.com/wordpress/2015/12/css3-animation-js-canvas-gif-pause-
 https://github.com/fluent-ffmpeg/node-fluent-ffmpeg
 
 实现概述：根据请求中的图片url list, express服务器自动请求图片，并将图片合成mp4，返回mp4资源地址
-详情见 ：https://gitee.com/rgbgss/convertImageToVideo 
+详情见 ：https://gitee.com/rgbgss/convert-image-to-video
