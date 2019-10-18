@@ -5,7 +5,7 @@ demo A：实现图片转换为gif
 
 demo B:实现json文件转canvas动画
 
-demo C:实现图片转video 代码见：https://gitee.com/rgbgss/convertImageToVideo
+demo C:实现图片转video 代码见：https://gitee.com/rgbgss/convert-image-to-video
 
 服务器当前调试相关配置：
 热刷新/vscode断点调试
